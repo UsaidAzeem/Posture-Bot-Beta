@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv310/
+env/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs
+*.mp4
+*.mov
+*.avi
+output.mp4
+output/
+out.mp4
+
+# MediaPipe
+*.task
+
+# OS
+.DS_Store
+Thumbs.db
